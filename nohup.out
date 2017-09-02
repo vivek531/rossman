@@ -1,0 +1,36 @@
+[I 10:03:01.996 NotebookApp] Serving notebooks from local directory: /Users/Masters/Desktop/kaggle/rossman
+[I 10:03:01.996 NotebookApp] 0 active kernels 
+[I 10:03:01.996 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=e0c0ae2bcef2255f585d3842076baa9cf929d5e086fbbc2d
+[I 10:03:01.996 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:03:02.000 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=e0c0ae2bcef2255f585d3842076baa9cf929d5e086fbbc2d
+[I 10:03:02.856 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 10:03:32.115 NotebookApp] Creating new notebook in 
+[I 10:03:33.114 NotebookApp] Kernel started: 78378272-3d13-4779-a694-0cc2277487f7
+[I 10:05:33.546 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 10:11:33.314 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 10:13:33.203 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 10:21:33.452 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 10:23:33.524 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 10:25:00.604 NotebookApp] Kernel restarted: 78378272-3d13-4779-a694-0cc2277487f7
+[I 10:25:33.282 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 10:27:33.495 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 10:29:33.469 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 10:31:33.489 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 10:33:33.407 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 10:35:33.492 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 10:37:33.495 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 10:49:48.253 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 11:10:38.708 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 11:14:35.923 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 11:31:47.078 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 11:33:47.068 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 11:35:47.275 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 11:37:47.053 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 11:41:47.040 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 11:43:47.032 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 11:45:47.251 NotebookApp] Saving file at /rossman_exploration1.ipynb
+[I 11:47:47.011 NotebookApp] Saving file at /rossman_exploration1.ipynb
